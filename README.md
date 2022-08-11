@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Vince 👋
 
 <!--
 **covelli1/covelli1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Vince's GitHub stats](https://github-readme-stats.vercel.app/api?username=covelli1&count_private=true&hide=prs,issues,contribute&show_icons=true&theme=radical)](https://github.com/covelli1)
+
+### [https://covelli1.github.io/Personal_Site/](https://covelli1.github.io/Personal_Site/)
