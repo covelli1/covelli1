@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Vince's GitHub stats](https://github-readme-stats.vercel.app/api?username=covelli1&count_private=true&hide=prs,issues,contribute&show_icons=true&theme=radical)](https://github.com/covelli1)
+[![Vince's GitHub stats](https://github-readme-stats.vercel.app/api?username=covelli1&count_private=true&hide=prs,issues,contribute&show_icons=true&theme=radical)](https://github.com/covelli1)
 
 ### [https://covelli1.github.io/Personal_Site/](https://covelli1.github.io/Personal_Site/)
